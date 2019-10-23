@@ -14,11 +14,3 @@
 .circle-image {
     border-radius: 50%;
 }
-
-.circle-image::before .circle-image-border::before {
-    visibility: hidden;
-}
-
-.circle-image::after .circle-image-border::after {
-    visibility: visible;
-}
