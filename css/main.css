@@ -5,3 +5,12 @@
 .gradient-green-dark {
     background-image: radial-gradient(circle farthest-corner at 10% 20%, rgba(87, 195, 155, 1) 0%, rgba(155, 218, 71, 0.66) 76.9%);
 }
+
+.circle-image-border {
+    border-radius: 50%;
+    border: 3px solid black;
+}
+
+.circle-image {
+    border-radius: 50%;
+}
