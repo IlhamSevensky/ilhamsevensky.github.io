@@ -14,3 +14,7 @@
 .circle-image {
     border-radius: 50%;
 }
+
+.circle-image::before .circle-image-border::before {
+    visibility: hidden;
+}
